@@ -1,0 +1,89 @@
+## Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.app
+*.log
+*.pdb
+*.cache
+*.mdb
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## Visual Studio
+.vs/
+.vscode/
+
+## ASP.NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+.nuget/
+*.psmdcp
+
+## Entity Framework
+Migrations/
+
+## DotCover
+*.dotCover
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Dotnet CLI
+**/project.lock.json
+**/project.fragment.lock.json
+**/artifacts/
+
+## Logs
+*.log
+
+## Web
+wwwroot/lib/
+node_modules/
+dist/
+bower_components/
+
+## Publish
+*.Publish.xml
+publish/
+
+## Others
+*.db
+*.bak
+*.sql
+*.sqlite
+*.mdf
+*.ldf
+
+# JetBrains Rider & other IDE tools
+.idea/
+*.sln.iml
+*.dotCover
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.swp
